@@ -9,8 +9,8 @@ namespace MyNamespace2
 {
     internal class Fraction
     {
-        public double numerator; // числитель
-        public double denominator; // знаменатель
+        public double numerator { get; set; } // числитель
+        public double denominator { get; set; } // знаменатель
 
         public Fraction(double num, double den)
         {

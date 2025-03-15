@@ -1,6 +1,7 @@
 ﻿using book_lst;
 using MyNamespace;
 using MyNamespace2;
+using MyNamespace3;
 
 internal class Program
 {
